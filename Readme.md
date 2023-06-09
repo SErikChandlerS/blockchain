@@ -8,3 +8,5 @@
 npm install
 npm serve
 ```
+
+![интерфейс](img.png)
